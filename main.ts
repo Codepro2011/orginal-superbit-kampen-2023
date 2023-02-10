@@ -1,0 +1,17 @@
+bitbot.ledRainbow()
+bitbot.ledRotate()
+bitbot.rotatems(BBRobotDirection.Left, 60, 1500)
+bitbot.goms(BBDirection.Forward, 60, 600)
+bitbot.rotatems(BBRobotDirection.Left, 60, 1200)
+bitbot.goms(BBDirection.Forward, 60, 1000)
+bitbot.rotatems(BBRobotDirection.Left, 60, 250)
+bitbot.goms(BBDirection.Forward, 60, 1000)
+bitbot.rotatems(BBRobotDirection.Left, 60, 250)
+bitbot.goms(BBDirection.Forward, 60, 1000)
+bitbot.rotatems(BBRobotDirection.Left, 60, 250)
+bitbot.goms(BBDirection.Forward, 60, 1000)
+bitbot.rotatems(BBRobotDirection.Left, 60, 250)
+bitbot.goms(BBDirection.Forward, 60, 1000)
+basic.forever(function () {
+	
+})
